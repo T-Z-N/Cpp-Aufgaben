@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Fourth_Chapter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Fourth_Chapter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fourth_Chapter-Debug-7f23b901d087186f5db0.json",
+					"name" : "Fourth_Chapter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fourth_Chapter_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fourth_Chapter_1-Debug-23a7e997730ebff34c2a.json",
+					"name" : "Fourth_Chapter_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fourth_Chapter_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fourth_Chapter_2-Debug-e7889c4437b1d9f7f88b.json",
+					"name" : "Fourth_Chapter_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fourth_Chapter_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fourth_Chapter_3-Debug-f255445fa1e1df363ea4.json",
+					"name" : "Fourth_Chapter_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fourth_Chapter_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fourth_Chapter_4-Debug-a78efc9c7e333ff2dc67.json",
+					"name" : "Fourth_Chapter_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fourth_Chapter_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fourth_Chapter_5-Debug-4547bf118d780ea85895.json",
+					"name" : "Fourth_Chapter_5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug",
+		"source" : "C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
