@@ -1,0 +1,22 @@
+# ninja log v5
+17	444	6712119389422864	build.ninja	81e64eed14b156f9
+2	492	6710294596082540	CMakeFiles/Second_Chapter_8.dir/3.11.cpp.obj	82c3fb2b3692d7d
+1	475	6706260080407791	CMakeFiles/Second_Chapter.dir/3.1.cpp.obj	13b6de001702f885
+436	527	6706251001649879	untitled.exe	cf3bd7034daf1b8b
+3	541	6708656414992796	CMakeFiles/Second_Chapter_2.dir/3.5.cpp.obj	e6ba121860148254
+492	617	6710294597319236	Second_Chapter_8.exe	92065de1c20733c4
+2	474	6706260010487806	CMakeFiles/Second_Chapter_1.dir/3.2.cpp.obj	e183de0d791cb2ab
+475	567	6706260081295169	Second_Chapter.exe	f6849a5604234733
+451	544	6708647049694300	Second_Chapter_1.exe	902382185caa173e
+2	451	6708647048786743	CMakeFiles/Second_Chapter_1.dir/3.3.cpp.obj	c8f448d1cc192f7e
+541	655	6708656416109803	Second_Chapter_2.exe	e06bb91caf2af6b8
+2	468	6708674874933288	CMakeFiles/Second_Chapter_3.dir/3.6.cpp.obj	776ae4c91fae78e9
+468	579	6708674876030343	Second_Chapter_3.exe	1997f044f279c2a6
+2	490	6710219301775688	CMakeFiles/Second_Chapter_4.dir/3.7.cpp.obj	20f5b23d4806d8d2
+490	587	6710219302733366	Second_Chapter_4.exe	92060b61deff26b8
+2	506	6710226598254076	CMakeFiles/Second_Chapter_5.dir/3.8.cpp.obj	4c9d6dfbca9ef863
+507	615	6710226599311240	Second_Chapter_5.exe	30c4709ad8d61b5c
+2	536	6710251123198394	CMakeFiles/Second_Chapter_6.dir/3.9.cpp.obj	5c67229e4acd94c1
+537	649	6710251124337150	Second_Chapter_6.exe	892a94dcb9a62793
+2	506	6710275668979037	CMakeFiles/Second_Chapter_7.dir/3.10.cpp.obj	5f1c412fa1ad0f24
+507	601	6710275669896586	Second_Chapter_7.exe	693ccf0a20455727
