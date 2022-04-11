@@ -4,16 +4,28 @@
 
 
 #include <iostream>
-// The character 'b' is char('a'+1), 'c' is char('a'+2), etc. Use a loop to write out a table of characters with their corresponding integer values:
+// Use the example above as a model for a program that converts yen, euros, and pounds into dollars. If you like realism, you can find conversion rates on the web.
 
 int main(void)
 {
-    char iterator = 'a';
-    int counter = 0;
-    while(iterator != 'z')
-    {
-        iterator++;
-        ++counter;
-        std::cout << " a + " << counter << " gives us " << iterator << "\n";
-    }
+
+    constexpr double yen_to_dollar = 0.0080;
+    constexpr double euro_to_dollar = 1.09;
+    constexpr double pound_to_dollar = 1.31;
+    int amount = 0 ;
+    std::string currency = " ";
+
+    std::cout << "Please enter your currency  and amount which will be converted to dollars\n";
+    std::cin >> currency >> amount;
+
+    if(currency == "yen")
+        std::cout << "You have " << yen_to_dollar*amount <<"dollars";
+    if(currency == "euro")
+        std::cout << "You have " << euro_to_dollar*amount <<"dollars";
+    if(currency == "pound")
+        std::cout << "You have " << pound_to_dollar*amount <<"dollars";
+    else
+        std::cout << "Please write your currency with small charecters";
+
+
 }

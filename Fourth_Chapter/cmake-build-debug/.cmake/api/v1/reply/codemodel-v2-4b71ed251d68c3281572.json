@@ -16,11 +16,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2,
-						3,
-						4,
-						5
+						1
 					]
 				}
 			],
@@ -36,11 +32,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2,
-						3,
-						4,
-						5
+						1
 					]
 				}
 			],
@@ -56,36 +48,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Fourth_Chapter_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Fourth_Chapter_1-Debug-23a7e997730ebff34c2a.json",
+					"jsonFile" : "target-Fourth_Chapter_1-Debug-ea0b8edac44ac46fb0a4.json",
 					"name" : "Fourth_Chapter_1",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Fourth_Chapter_2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Fourth_Chapter_2-Debug-e7889c4437b1d9f7f88b.json",
-					"name" : "Fourth_Chapter_2",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Fourth_Chapter_3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Fourth_Chapter_3-Debug-f255445fa1e1df363ea4.json",
-					"name" : "Fourth_Chapter_3",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Fourth_Chapter_4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Fourth_Chapter_4-Debug-a78efc9c7e333ff2dc67.json",
-					"name" : "Fourth_Chapter_4",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Fourth_Chapter_5::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Fourth_Chapter_5-Debug-4547bf118d780ea85895.json",
-					"name" : "Fourth_Chapter_5",
 					"projectIndex" : 0
 				}
 			]

@@ -1,9 +1,11 @@
 # ninja log v5
-2	520	6712132820231563	CMakeFiles/Fourth_Chapter.dir/4.0.cpp.obj	46bc0b3bb1d79e50
-0	484	6712133976522935	CMakeFiles/Fourth_Chapter_2.dir/4.2.cpp.obj	34dba0382a695179
-521	630	6712132821308664	Fourth_Chapter.exe	1929ab9a04cd4afe
-2	585	6712432711498062	CMakeFiles/Fourth_Chapter_4.dir/4.4.cpp.obj	eee52bc5f0b5b144
+2	493	6713757150372855	CMakeFiles/Fourth_Chapter.dir/4.0.cpp.obj	97733f36072a5390
+518	620	6713752465094842	Fourth_Chapter.exe	1929ab9a04cd4afe
 586	687	6712432712489669	Fourth_Chapter_4.exe	6722cb5c524c6b84
-1	232	6713729749493464	build.ninja	7ba03f89723a9cbb
-2	473	6712322100152063	CMakeFiles/Fourth_Chapter_3.dir/4.3.cpp.obj	6137a471637875d4
+1	232	6713757405702997	build.ninja	7ba03f89723a9cbb
 473	568	6712322101079819	Fourth_Chapter_3.exe	d53606ac4a23eaef
+16	457	6713757150013811	CMakeFiles/Fourth_Chapter.dir/4.1.cpp.obj	b0451cd43d17dcb0
+0	493	6713757434073650	CMakeFiles/Fourth_Chapter_1.dir/4.1.cpp.obj	3d51aac71f2e6b07
+493	589	6713757435012102	Fourth_Chapter_1.exe	5da256cae27ec0b6
+2	464	6713757776795910	CMakeFiles/Fourth_Chapter_1.dir/4.1.cpp.obj	3d51aac71f2e6b07
+465	572	6713757777853092	Fourth_Chapter_1.exe	5da256cae27ec0b6
