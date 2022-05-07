@@ -41,6 +41,39 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/STA-G/Desktop/C++$ Kitap$ Aufgabeleri/C++$ Aufgaben/Fourth_Chapter/cmake-build-debug/
 # =============================================================================
+# Object build statements for EXECUTABLE target Fourth_Chapter_5
+
+
+#############################################
+# Order-only phony target for Fourth_Chapter_5
+
+build cmake_object_order_depends_target_Fourth_Chapter_5: phony || CMakeFiles/Fourth_Chapter_5.dir
+
+build CMakeFiles/Fourth_Chapter_5.dir/Ex.2.cpp.obj: CXX_COMPILER__Fourth_Chapter_5_Debug C$:/Users/STA-G/Desktop/C++$ Kitap$ Aufgabeleri/C++$ Aufgaben/Fourth_Chapter/Ex.2.cpp || cmake_object_order_depends_target_Fourth_Chapter_5
+  DEP_FILE = CMakeFiles\Fourth_Chapter_5.dir\Ex.2.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_5.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fourth_Chapter_5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fourth_Chapter_5
+
+
+#############################################
+# Link the executable Fourth_Chapter_5.exe
+
+build Fourth_Chapter_5.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_5_Debug CMakeFiles/Fourth_Chapter_5.dir/Ex.2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fourth_Chapter_5.exe
+  TARGET_IMPLIB = libFourth_Chapter_5.dll.a
+  TARGET_PDB = Fourth_Chapter_5.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Fourth_Chapter
 
 
@@ -139,18 +172,6 @@ build Fourth_Chapter_2.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_2_Debug CMakeF
   TARGET_IMPLIB = libFourth_Chapter_2.dll.a
   TARGET_PDB = Fourth_Chapter_2.exe.dbg
 
-
-#############################################
-# Utility command for rebuild_cache
-
-build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter" -B"C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter\cmake-build-debug""
-  DESC = Running CMake to regenerate build system...
-  pool = console
-  restat = 1
-
-build rebuild_cache: phony CMakeFiles/rebuild_cache.util
-
 # =============================================================================
 # Object build statements for EXECUTABLE target Fourth_Chapter_3
 
@@ -183,17 +204,6 @@ build Fourth_Chapter_3.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_3_Debug CMakeF
   TARGET_FILE = Fourth_Chapter_3.exe
   TARGET_IMPLIB = libFourth_Chapter_3.dll.a
   TARGET_PDB = Fourth_Chapter_3.exe.dbg
-
-
-#############################################
-# Utility command for edit_cache
-
-build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
-  DESC = No interactive CMake dialog available...
-  restat = 1
-
-build edit_cache: phony CMakeFiles/edit_cache.util
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Fourth_Chapter_4
@@ -229,6 +239,161 @@ build Fourth_Chapter_4.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_4_Debug CMakeF
   TARGET_PDB = Fourth_Chapter_4.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Fourth_Chapter_6
+
+
+#############################################
+# Order-only phony target for Fourth_Chapter_6
+
+build cmake_object_order_depends_target_Fourth_Chapter_6: phony || CMakeFiles/Fourth_Chapter_6.dir
+
+build CMakeFiles/Fourth_Chapter_6.dir/Ex3.cpp.obj: CXX_COMPILER__Fourth_Chapter_6_Debug C$:/Users/STA-G/Desktop/C++$ Kitap$ Aufgabeleri/C++$ Aufgaben/Fourth_Chapter/Ex3.cpp || cmake_object_order_depends_target_Fourth_Chapter_6
+  DEP_FILE = CMakeFiles\Fourth_Chapter_6.dir\Ex3.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_6.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fourth_Chapter_6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fourth_Chapter_6
+
+
+#############################################
+# Link the executable Fourth_Chapter_6.exe
+
+build Fourth_Chapter_6.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_6_Debug CMakeFiles/Fourth_Chapter_6.dir/Ex3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fourth_Chapter_6.exe
+  TARGET_IMPLIB = libFourth_Chapter_6.dll.a
+  TARGET_PDB = Fourth_Chapter_6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Fourth_Chapter_7
+
+
+#############################################
+# Order-only phony target for Fourth_Chapter_7
+
+build cmake_object_order_depends_target_Fourth_Chapter_7: phony || CMakeFiles/Fourth_Chapter_7.dir
+
+build CMakeFiles/Fourth_Chapter_7.dir/Ex4.cpp.obj: CXX_COMPILER__Fourth_Chapter_7_Debug C$:/Users/STA-G/Desktop/C++$ Kitap$ Aufgabeleri/C++$ Aufgaben/Fourth_Chapter/Ex4.cpp || cmake_object_order_depends_target_Fourth_Chapter_7
+  DEP_FILE = CMakeFiles\Fourth_Chapter_7.dir\Ex4.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_7.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fourth_Chapter_7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fourth_Chapter_7
+
+
+#############################################
+# Link the executable Fourth_Chapter_7.exe
+
+build Fourth_Chapter_7.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_7_Debug CMakeFiles/Fourth_Chapter_7.dir/Ex4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fourth_Chapter_7.exe
+  TARGET_IMPLIB = libFourth_Chapter_7.dll.a
+  TARGET_PDB = Fourth_Chapter_7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Fourth_Chapter_8
+
+
+#############################################
+# Order-only phony target for Fourth_Chapter_8
+
+build cmake_object_order_depends_target_Fourth_Chapter_8: phony || CMakeFiles/Fourth_Chapter_8.dir
+
+build CMakeFiles/Fourth_Chapter_8.dir/Ex10.cpp.obj: CXX_COMPILER__Fourth_Chapter_8_Debug C$:/Users/STA-G/Desktop/C++$ Kitap$ Aufgabeleri/C++$ Aufgaben/Fourth_Chapter/Ex10.cpp || cmake_object_order_depends_target_Fourth_Chapter_8
+  DEP_FILE = CMakeFiles\Fourth_Chapter_8.dir\Ex10.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_8.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fourth_Chapter_8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fourth_Chapter_8
+
+
+#############################################
+# Link the executable Fourth_Chapter_8.exe
+
+build Fourth_Chapter_8.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_8_Debug CMakeFiles/Fourth_Chapter_8.dir/Ex10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fourth_Chapter_8.exe
+  TARGET_IMPLIB = libFourth_Chapter_8.dll.a
+  TARGET_PDB = Fourth_Chapter_8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Fourth_Chapter_9
+
+
+#############################################
+# Order-only phony target for Fourth_Chapter_9
+
+build cmake_object_order_depends_target_Fourth_Chapter_9: phony || CMakeFiles/Fourth_Chapter_9.dir
+
+build CMakeFiles/Fourth_Chapter_9.dir/Ex11.cpp.obj: CXX_COMPILER__Fourth_Chapter_9_Debug C$:/Users/STA-G/Desktop/C++$ Kitap$ Aufgabeleri/C++$ Aufgaben/Fourth_Chapter/Ex11.cpp || cmake_object_order_depends_target_Fourth_Chapter_9
+  DEP_FILE = CMakeFiles\Fourth_Chapter_9.dir\Ex11.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_9.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fourth_Chapter_9.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fourth_Chapter_9
+
+
+#############################################
+# Link the executable Fourth_Chapter_9.exe
+
+build Fourth_Chapter_9.exe: CXX_EXECUTABLE_LINKER__Fourth_Chapter_9_Debug CMakeFiles/Fourth_Chapter_9.dir/Ex11.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fourth_Chapter_9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fourth_Chapter_9.exe
+  TARGET_IMPLIB = libFourth_Chapter_9.dll.a
+  TARGET_PDB = Fourth_Chapter_9.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D "C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D "C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter" -B"C:\Users\STA-G\Desktop\C++ Kitap Aufgabeleri\C++ Aufgaben\Fourth_Chapter\cmake-build-debug""
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build rebuild_cache: phony CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build Fourth_Chapter: phony Fourth_Chapter.exe
@@ -241,6 +406,16 @@ build Fourth_Chapter_3: phony Fourth_Chapter_3.exe
 
 build Fourth_Chapter_4: phony Fourth_Chapter_4.exe
 
+build Fourth_Chapter_5: phony Fourth_Chapter_5.exe
+
+build Fourth_Chapter_6: phony Fourth_Chapter_6.exe
+
+build Fourth_Chapter_7: phony Fourth_Chapter_7.exe
+
+build Fourth_Chapter_8: phony Fourth_Chapter_8.exe
+
+build Fourth_Chapter_9: phony Fourth_Chapter_9.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -249,7 +424,7 @@ build Fourth_Chapter_4: phony Fourth_Chapter_4.exe
 #############################################
 # Folder: C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug
 
-build all: phony Fourth_Chapter.exe Fourth_Chapter_1.exe Fourth_Chapter_2.exe Fourth_Chapter_3.exe Fourth_Chapter_4.exe
+build all: phony Fourth_Chapter_5.exe Fourth_Chapter.exe Fourth_Chapter_1.exe Fourth_Chapter_2.exe Fourth_Chapter_3.exe Fourth_Chapter_4.exe Fourth_Chapter_6.exe Fourth_Chapter_7.exe Fourth_Chapter_8.exe Fourth_Chapter_9.exe
 
 # =============================================================================
 # Built-in targets
