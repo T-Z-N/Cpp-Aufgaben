@@ -7,6 +7,9 @@ C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-b
 C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_6.dir
 C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_7.dir
 C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_8.dir
+C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_12.dir
 C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_9.dir
+C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_10.dir
+C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/Fourth_Chapter_11.dir
 C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/STA-G/Desktop/C++ Kitap Aufgabeleri/C++ Aufgaben/Fourth_Chapter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
