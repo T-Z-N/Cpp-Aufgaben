@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chapter_5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter_5-Debug-503818ebacbbcb71bb65.json",
+					"name" : "Chapter_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter_5_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter_5_1-Debug-e06de7e36537bf50cca9.json",
+					"name" : "Chapter_5_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter_5_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter_5_2-Debug-0663183f2129fa878549.json",
+					"name" : "Chapter_5_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter_5_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter_5_3-Debug-f98334e5be721fa49381.json",
+					"name" : "Chapter_5_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/STA-G/Desktop/Chapter 5/cmake-build-debug",
+		"source" : "C:/Users/STA-G/Desktop/Chapter 5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
